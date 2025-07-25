@@ -1,0 +1,10 @@
+a = 5 
+b = 3 
+c = 7 
+d = 5
+print(a<b) # 0
+print(a>b) # 1
+print(c<=d) # 0
+print(c>=d) # 1
+print(a==d) # 1
+print(a!=d)  # 0

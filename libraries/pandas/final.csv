@@ -1,0 +1,6 @@
+Name,Age,Department,Salary,color
+Alice,25.0,HR,50000,red 
+Bob,30.0,IT,60000,blue
+Charlie,,Finance,70000,green
+David,40.0,IT,80000,yellow
+Eva,28.0,HR,52000,pink

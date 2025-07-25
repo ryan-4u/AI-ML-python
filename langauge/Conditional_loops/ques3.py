@@ -1,0 +1,24 @@
+value = input("Enter an alphabet: ")
+match value :
+    case 'a' :
+        print("It's am vowel")
+    case 'e' :  
+        print("It's am vowel")
+    case 'i' :
+        print("It's am vowel")
+    case 'o' :
+        print("It's am vowel")
+    case 'u' :
+        print("It's am vowel")  
+    case 'A' :
+        print("It's am vowel")
+    case 'E' :  
+        print("It's am vowel")
+    case 'I' :
+        print("It's am vowel")
+    case 'O' :
+        print("It's am vowel")
+    case 'U' :
+        print("It's am vowel")
+    case _ : 
+        print("It's an consonant")                  
